@@ -5,3 +5,5 @@ Supply chain management is a vital aspect of any business, encompassing the flow
 # Dataset link - **https://drive.google.com/drive/folders/16meLUIiy2sVNQb9uqpsN7InQ91yelUdt?usp=sharing**
 
 # Project Demonstation link - **https://drive.google.com/drive/folders/1V_jOiUAbvtHCbw1qjlH4JdRHJPsBoJUZ?usp=sharing**
+
+# Pdf file (Dashboard, Storytelling)- **https://drive.google.com/file/d/1SEioJVaaD9-yPFwgWmSnLEMMV-2vL2S9/view?usp=sharing**
