@@ -8,4 +8,4 @@ Supply chain management is a vital aspect of any business, encompassing the flow
 
 # Pdf file (Dashboard, Storytelling)- **https://drive.google.com/file/d/1SEioJVaaD9-yPFwgWmSnLEMMV-2vL2S9/view?usp=sharing**
 
-# Documentation pdf- **https://workdrive.zohoexternal.com/writer/open/bvfmt03893eda632645fe9056c6aee5c2a0fd?authId=%7B%22linkId%22%3A%225k2wApawal7-LYmlU%22%7D**
+# Documentation pdf- **https://drive.google.com/drive/folders/1L8rZxKA7uIun6me_jWojEmnIqCBzVbaa**
